@@ -31,3 +31,10 @@ Pick a dish, add to cart, place order, get delivered.
 2. Run ```npm init```
 3. Run ```npm start```.
 4. Make sure you've allow CORS extension installed in your browser.
+
+
+## ScreenShots
+![Screenshot 2024-04-03 010207](https://github.com/Zaid-Altaf/Swiggy-Clone/assets/100033305/cdfd377d-03c8-41b5-bf2b-32678a61d532)
+![Screenshot 2024-04-03 010152](https://github.com/Zaid-Altaf/Swiggy-Clone/assets/100033305/9e648c37-1bf4-4898-b184-8d696df6cc7d)
+![Screenshot 2024-04-03 010132](https://github.com/Zaid-Altaf/Swiggy-Clone/assets/100033305/07549961-71af-4b1b-90ae-27aa7c67d434)
+![Screenshot 2024-04-03 005622](https://github.com/Zaid-Altaf/Swiggy-Clone/assets/100033305/10679044-b409-4008-844f-0620aa574b5a)
